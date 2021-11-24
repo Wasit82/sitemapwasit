@@ -1,1 +1,1 @@
-# sitemapwasit
+# sitemapwasit.js
